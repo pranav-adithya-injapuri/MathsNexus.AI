@@ -1,0 +1,8 @@
+{
+  "name": "MathNexus AI",
+  "description": "An elite mathematical learning platform featuring an AI tutor, sequence visualization, and convergence racing tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
