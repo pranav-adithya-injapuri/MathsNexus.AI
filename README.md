@@ -1,6 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+An interactive web application designed to help learners understand convergence and divergence in mathematics through dynamic visualization. The project includes three key components:
+
+1. **MathNexus.AI** – An AI‑integrated platform that clarifies doubts not only about convergence and divergence but across the broader field of mathematics.
+2. **Visualizer** – A dynamic graphing tool that plots user‑defined functions, making it easier to identify their behavior and nature.
+3. **Convergence Racer** – An advanced visualization system that allows comparison of three functions on a single graph, demonstrates step‑by‑step convergence, and determines whether a function converges or diverges.
 
 # Run and deploy your AI Studio app
 
